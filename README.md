@@ -1,6 +1,6 @@
-# hola
+# Readme generator
   ## Description
-  dlfjsda;fl
+  Create a command-line application that dynamically generates a professional README.md file from users imput  using the inquirer package
   ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -10,25 +10,25 @@
 - [Questions](#questions)
 
 ## Installation
-dhfksaf;kjd
+Set up node.js project, inicialize a node.js project, install the required nmp package, create your application file, writte the necessary code, run the application
 
 ## Usage
-ksdfhkdjf
+Open terminal, navigate to index.js, run the generator, answer the promts.
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
 Welcome contributions from the community! To contribute to this project, please follow these guidelines:
-ldkfjldkf
+fork to add code on the repository, create a new branch, make the changes, push the changes , submit the pull request.
 
 ## Tests
 
 To run tests for this project, follow these instructions:
-ldfkjldkfh;d
+ensure that you have all the dependences installed, and run the test with the following comand index.js 
 
 ## Questions
 If you have any questions, feel free to reach out to me:
-- GitHub: dlkfjl;afk(https://github.com/dlkfjl;afk)
-- Email: dlkfjdlskfjkasd
+- GitHub: RlucSal(https://github.com/RlucSal)
+- Email: rluc.sal@gmail.com
   
