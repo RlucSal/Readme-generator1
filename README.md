@@ -15,6 +15,10 @@ Set up node.js project, inicialize a node.js project, install the required nmp p
 ## Usage
 Open terminal, navigate to index.js, run the generator, answer the promts.
 
+## Video Explanation 
+
+https://github.com/RlucSal/Readme-generator1/assets/145674108/daac7391-9a4a-4837-80fc-961a6e1f7e3c
+
 ## License
 This project is licensed under the MIT license.
 
